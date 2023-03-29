@@ -25,7 +25,7 @@ class WebprojectapiApplicationTests {
 		MyFirstRestAPI api=new MyFirstRestAPI();
 		
 		List<Student> students=new LinkedList<>();
-		students.add(new Student("101", "Sonu", "Address 1"));
+		students.add(new Student("101", "Sonu", "Address 2"));
 		students.add(new Student("102", "Monu", "Address 1"));
 		students.add(new Student("103", "Sumit", "Address 1"));
 		students.add(new Student("104", "amit", "Address 1"));
